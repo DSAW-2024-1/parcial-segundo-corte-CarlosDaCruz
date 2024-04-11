@@ -59,3 +59,7 @@ Lista de nombres de la clase:
 | TAMAYO LOPEZ, MARIA FERNANDA |
 | URREA LARA, DEIVID NICOLAS   |
 | AZCONA, ANDRÉS                |
+
+
+
+LINK DEL DESPLIEGUE DEL PARCIAL CARLOS DAVID CRUZ: https://parcial2-vercel.vercel.app/
